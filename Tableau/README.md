@@ -3,7 +3,7 @@
 ### World Flood Data (1985–2021)  
 
 This Tableau project analyzes global flood data collected by the **Dartmouth Flood Observatory**, covering the years 1985–2021. 
-Tableau Public link: https://public.tableau.com/app/profile/jasmin.pena/viz/WorldFloodData_17316219181300/Dashboard#1 
+Tableau Public Link: https://public.tableau.com/app/profile/jasmin.pena/viz/WorldFloodData_17316219181300/Dashboard#1 
 
 - **Data Preparation & Feature Engineering**:  
   - Analyzed raw data and created the new variable **Total_Affected** by combining *Dead* and *Displaced* to better measure the overall severity and impact of floods.  

@@ -1,6 +1,21 @@
 # Data Analytics & Data Science Portfolio
 
-Welcome! This repository contains projects that demonstrate my proficiency in key languages, tools, and methodologies used in data analytics and data science.  
+Welcome! 
+## About Me  
+
+I am an aspiring **Data Analyst** on the path toward becoming a **Data Scientist**.  
+My passion lies in transforming raw data into actionable insights that support decision-making and solve real-world challenges.  
+
+I have experience working with datasets using **Python, SQL, Excel, Tableau**, and other analytical tools.  
+Through my projects, I focus on:  
+- Cleaning and preparing data for analysis  
+- Identifying trends and patterns  
+- Creating clear, insightful visualizations and reports  
+- Applying analytical thinking to answer business questions  
+
+I am continuously learning and building projects to strengthen my technical expertise and demonstrate my ability to contribute in the fields of **data analytics** and **data science**.  
+
+This repository contains projects that demonstrate my proficiency in key languages, tools, and methodologies used in data analytics and data science.  
 
 The goal of these projects is not only to showcase my technical skills, but also to provide meaningful insights into real-world problems and scenarios.  
 

@@ -3,7 +3,7 @@
 Welcome! 
 ## About Me  
 
-I am an aspiring **Data Analyst** on the path toward becoming a **Data Scientist**.  
+I am an aspiring **Data Analyst**.  
 My passion lies in transforming raw data into actionable insights that support decision-making and solve real-world challenges.  
 
 I have experience working with datasets using **Python, SQL, Excel, Tableau**, and other analytical tools.  

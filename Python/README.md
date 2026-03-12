@@ -2,7 +2,7 @@
 ## Author: Jasmin Peña
 
 ## Overview 
-This project analyzes Sexually Transmitted Diseas (STD) morbidity data from the CDC WONDER database, spanning 1996 ti 2014. Inspired by research on the disproportionate rates of violence experienced by Indigenous communities, this analysis examines whether similar disparites exist in STD morbidity data cross racial and ethnic groups in the United States. 
+This project analyzes Sexually Transmitted Diseas (STD) morbidity data from the CDC WONDER database, spanning 1996 to 2014. Inspired by research on the disproportionate rates of violence experienced by Indigenous communities, this analysis examines whether similar disparites exist in STD morbidity data cross racial and ethnic groups in the United States. 
 
 ## Research Question
 Does the marginalization of Native American communities extend to STD morbidity, and how do racial/ethnic groups compare to each other? 

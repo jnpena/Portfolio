@@ -18,7 +18,7 @@ Does the marginalization of Native American communities extend to STD morbidity,
 * American Indian or Alaska Native populations consistented exhibited elevated rates across all three diseases, particularly after 2008
 * Hispanic populations also experience elevated rates than White or Asian or Pacific Islander populations
 * Asian or Pacific Islander populations consistently exhibited the lowest rates across all racial/ethnic groups
-* These disparites are likely driven by systemic inequited in healthcare and education
+* These disparites are likely driven by systemic inequites that restrict access to healthcare and education
 
 ## Libraries Used
 1. Pandas

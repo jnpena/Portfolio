@@ -27,5 +27,5 @@ Does the marginalization of Native American communities extend to STD morbidity,
 4. Seaborn
 
 ## Notebook
-The full analysis, including cleaning and exploratory data analysis, visualizations, and numerical findings can be find within this directory or on Kaggle </br>
+The full analysis, including cleaning and exploratory data analysis, visualizations, and numerical findings can be find within this directory or on Kaggle. </br>
 Kaggle link: https://www.kaggle.com/code/jasminpena/analysis-on-cdc-std-morbidity-data 

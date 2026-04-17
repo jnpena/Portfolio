@@ -1,7 +1,8 @@
 # Python Project: Analysis on STD Morbidity Data  
 ## Author: Jasmin Peña
 
-## Overview 
+## Overview
+Kaggle link: https://www.kaggle.com/code/jasminpena/analysis-on-cdc-std-morbidity-data </br>
 This project analyzes Sexually Transmitted Diseases (STD) morbidity data from the CDC WONDER database, spanning 1996 to 2014. Inspired by research on the disproportionate rates of violence experienced by Indigenous communities, this analysis examines whether similar disparities exist in STD morbidity data cross racial and ethnic groups in the United States.
 
 ## Research Question
